@@ -28,21 +28,32 @@ Contenido del Repositorio
 
 requirements.txt: Lista de bibliotecas y dependencias de Python necesarias.           
 
-data/: Directorio para almacenar datos extraídos.             
+data/: Directorio para almacenar datos extraídos.                                                     
 
-README.md: Explicacion breve del proyecto.         
+
+README.md: Explicacion breve del proyecto.                            
 
 
 Uso
 
-Instala dependencias: pip install -r requirements.txt
-Ejecuta Jupyter Notebook: data_analysis.ipynb
-Resultados
+Instala dependencias: pip install -r requirements.txt                                                                       
+
+
+Ejecuta Jupyter Notebook: data_analysis.ipynb                                                               
+
+
+Resultados                              
+
+
 Los cuadernos proporcionan información valiosa sobre la demografía y datos biográficos de actores nacidos en España y del ranking de los deportistas mejor pagados en estos ultimos años.
 
 
 Para preguntas o discusiones adicionales, no dudes en contactarme en iraitzete@gmail.com.
-Reconocimientos
+
+
+Reconocimientos                                                               
+
+
 Agradezco a BeautifulSoup y la biblioteca de solicitudes por facilitar el proceso de raspado web.
 Un agradecimiento especial a IMDb por proporcionar datos valiosos.
 Extendido reconocimiento a Demetrio por su guía inspiradora (https://github.com/demstalferez).
