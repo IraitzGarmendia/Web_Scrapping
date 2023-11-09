@@ -24,10 +24,14 @@ Se realiza un análisis detallado de los datos para obtener información signifi
 
 Contenido del Repositorio
 
-(Actores_Españoles.ipynb)y (Deportistas.ipynb): Cuadernos de Jupyter que contiene código para la recopilación, procesamiento y análisis de datos.
-requirements.txt: Lista de bibliotecas y dependencias de Python necesarias.       
-data/: Directorio para almacenar datos extraídos.
-README.md: Explicacion breve del proyecto.
+(Actores_Españoles.ipynb)y (Deportistas.ipynb): Cuadernos de Jupyter que contiene código para la recopilación, procesamiento y análisis de datos.         
+
+requirements.txt: Lista de bibliotecas y dependencias de Python necesarias.           
+
+data/: Directorio para almacenar datos extraídos.             
+
+README.md: Explicacion breve del proyecto.         
+
 
 Uso
 
